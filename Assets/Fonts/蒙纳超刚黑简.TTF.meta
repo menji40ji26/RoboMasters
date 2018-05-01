@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d3f8796826b092f45bed3f2f528d915b
+timeCreated: 1521296556
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MStiffHei HKS
+  fontNames:
+  - MStiffHei HKS
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

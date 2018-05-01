@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: c051b4f96e7f28e46bfe057f9f89fbed
+timeCreated: 1523043526
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCube37
+    100004: pCube38
+    100006: pCube39
+    100008: pCube46
+    100010: pCube47
+    100012: pCube48
+    100014: pCube49
+    100016: polySurface348
+    100018: polySurface371
+    100020: polySurface372
+    100022: polySurface373
+    100024: pPipe3
+    100026: polySurface374
+    100028: polySurface381
+    100030: polySurface389
+    100032: polySurface429
+    100034: pCube67
+    400000: //RootNode
+    400002: pCube37
+    400004: pCube38
+    400006: pCube39
+    400008: pCube46
+    400010: pCube47
+    400012: pCube48
+    400014: pCube49
+    400016: polySurface348
+    400018: polySurface371
+    400020: polySurface372
+    400022: polySurface373
+    400024: pPipe3
+    400026: polySurface374
+    400028: polySurface381
+    400030: polySurface389
+    400032: polySurface429
+    400034: pCube67
+    2300000: pCube37
+    2300002: pCube38
+    2300004: pCube39
+    2300006: pCube46
+    2300008: pCube47
+    2300010: pCube48
+    2300012: pCube49
+    2300014: polySurface348
+    2300016: polySurface371
+    2300018: polySurface372
+    2300020: polySurface373
+    2300022: pPipe3
+    2300024: polySurface374
+    2300026: polySurface381
+    2300028: polySurface389
+    2300030: polySurface429
+    2300032: pCube67
+    3300000: pCube37
+    3300002: pCube38
+    3300004: pCube39
+    3300006: pCube46
+    3300008: pCube47
+    3300010: pCube48
+    3300012: pCube49
+    3300014: polySurface348
+    3300016: polySurface371
+    3300018: polySurface372
+    3300020: polySurface373
+    3300022: pPipe3
+    3300024: polySurface374
+    3300026: polySurface381
+    3300028: polySurface389
+    3300030: polySurface429
+    3300032: pCube67
+    4300000: pCube37
+    4300002: pCube38
+    4300004: pCube39
+    4300006: pCube46
+    4300008: pCube47
+    4300010: pCube48
+    4300012: pCube49
+    4300014: polySurface348
+    4300016: polySurface371
+    4300018: polySurface372
+    4300020: polySurface373
+    4300022: pPipe3
+    4300024: polySurface374
+    4300026: polySurface381
+    4300028: polySurface389
+    4300030: polySurface429
+    4300032: pCube67
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
